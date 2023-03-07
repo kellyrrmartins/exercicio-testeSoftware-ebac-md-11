@@ -35,3 +35,4 @@ describe('Funcionalidade login', () => {
     cy.get('.woocommerce-error').should('contain', 'Perdeu a senha?')
   })
 })
+// teste
